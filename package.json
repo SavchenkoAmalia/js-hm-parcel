@@ -1,0 +1,24 @@
+{
+  "name": "js-hm-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavchenkoAmalia/js-hm-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavchenkoAmalia/js-hm-parcel/issues"
+  },
+  "homepage": "https://github.com/SavchenkoAmalia/js-hm-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
